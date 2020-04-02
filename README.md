@@ -1,3 +1,3 @@
 # Minecraft-Structures
-## Useful Structures of Minecraft
+## Interesting Structures of Minecraft
 Coming Soon……
